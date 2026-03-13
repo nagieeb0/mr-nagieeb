@@ -41,6 +41,71 @@
                 href="http://localhost:1313/ar/posts/"
                 />
   </url><url>
+    <loc>http://localhost:1313/ar/tags/business/</loc>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/business/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/ar/tags/business/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ar/tags/growth/</loc>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/growth/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/ar/tags/growth/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ar/tags/strategy/</loc>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/strategy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/ar/tags/strategy/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ar/tags/</loc>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/ar/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ar/posts/why-small-businesses-dont-grow/</loc>
+    <lastmod>2026-03-13T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/why-small-businesses-dont-grow/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="http://localhost:1313/ar/posts/why-small-businesses-dont-grow/"
+                />
+  </url><url>
     <loc>http://localhost:1313/ar/about/</loc>
     <lastmod>2026-01-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -64,18 +129,6 @@
                 rel="alternate"
                 hreflang="ar"
                 href="http://localhost:1313/ar/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/ar/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://localhost:1313/ar/tags/"
                 />
   </url>
 </urlset>
