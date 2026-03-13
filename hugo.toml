@@ -1,0 +1,67 @@
+baseURL  = "https://mrnagieeb.com/"
+title    = "Mr. Nagieeb"
+theme    = "PaperMod"
+paginate = 5
+
+defaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight       = 1
+    [languages.en.params.profileMode]
+      enabled  = true
+      title    = "Mr. Nagieeb"
+      subtitle = "Helping businesses grow smarter with data, AI & the right systems"
+      imageUrl = "images/avatar.webp"
+      imageAlt = "Nagieeb"
+    [[languages.en.menu.main]]
+      name   = "About"
+      url    = "/about/"
+      weight = 1
+    [[languages.en.menu.main]]
+      name   = "Posts"
+      url    = "/posts/"
+      weight = 2
+
+  [languages.ar]
+    languageName      = "العربية"
+    languageCode      = "ar"
+    languageDirection = "rtl"
+    weight            = 2
+    [languages.ar.params.profileMode]
+      enabled  = true
+      title    = "Mr. Nagieeb"
+      subtitle = "بساعد الشركات تنمو أذكى بالبيانات والـ AI والأنظمة الصح"
+      imageUrl = "images/avatar.webp"
+      imageAlt = "Nagieeb"
+    [[languages.ar.menu.main]]
+      name   = "عني"
+      url    = "/ar/about/"
+      weight = 1
+    [[languages.ar.menu.main]]
+      name   = "مقالات"
+      url    = "/ar/posts/"
+      weight = 2
+
+[params]
+  dateFormat         = "02-01-2006"
+  defaultTheme       = "auto"
+  disableThemeToggle = false
+  ShowReadingTime    = true
+  ShowShareButtons   = false
+  ShowPostNavLinks   = true
+
+  [params.homeInfoParams]
+    Title   = "Mr. Nagieeb"
+    Content = "Helping businesses grow smarter"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url  = "https://linkedin.com/in/nagieeb"
+[[params.socialIcons]]
+  name = "twitter"
+  url  = "https://twitter.com/nagieeb"
+[[params.socialIcons]]
+  name = "facebook"
+  url  = "https://facebook.com/nagieeb"

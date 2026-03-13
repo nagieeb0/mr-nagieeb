@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Mr. Nagieeb</title>
+    <link>http://localhost:1313/ar/posts/</link>
+    <description>Recent content in Posts on Mr. Nagieeb</description>
+    <generator>Hugo</generator>
+    <language>ar</language>
+    <lastBuildDate>Fri, 13 Mar 2026 13:45:22 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/ar/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imdent Story</title>
+      <link>http://localhost:1313/ar/posts/imdent-story/</link>
+      <pubDate>Fri, 13 Mar 2026 13:45:22 +0200</pubDate>
+      <guid>http://localhost:1313/ar/posts/imdent-story/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ليه معظم الشركات الصغيرة مش بتنمو (والسبب مش اللي بتفكر فيه)</title>
+      <link>http://localhost:1313/ar/posts/why-small-businesses-dont-grow/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ar/posts/why-small-businesses-dont-grow/</guid>
+      <description>معظم الشركات مش بتنمو مش بسبب الفلوس أو التسويق — لكن لأنهم ما فهموش احتياجات عملاؤهم الحقيقية</description>
+    </item>
+  </channel>
+</rss>
