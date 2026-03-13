@@ -2,19 +2,15 @@ baseURL  = "https://mr-nagieeb.netlify.app/"
 title    = "Mr. Nagieeb"
 theme    = "PaperMod"
 paginate = 5
-
 defaultContentLanguage = "en"
 
 [languages]
   [languages.en]
     languageName = "English"
     weight       = 1
-    [languages.en.params.profileMode]
-      enabled  = true
-      title    = "Mr. Nagieeb"
-      subtitle = "Helping businesses grow smarter with data, AI & the right systems"
-      imageUrl = "images/avatar.webp"
-      imageAlt = "Nagieeb"
+    [languages.en.params.homeInfoParams]
+      Title   = "Hi, I'm Nagieeb 👋"
+      Content = "Helping businesses grow smarter with data, AI & the right systems"
     [[languages.en.menu.main]]
       name   = "About"
       url    = "/about/"
@@ -29,12 +25,9 @@ defaultContentLanguage = "en"
     languageCode      = "ar"
     languageDirection = "rtl"
     weight            = 2
-    [languages.ar.params.profileMode]
-      enabled  = true
-      title    = "Mr. Nagieeb"
-      subtitle = "بساعد الشركات تنمو أذكى بالبيانات والـ AI والأنظمة الصح"
-      imageUrl = "images/avatar.webp"
-      imageAlt = "Nagieeb"
+    [languages.ar.params.homeInfoParams]
+      Title   = "أهلاً، أنا نجيب 👋"
+      Content = "بساعد الشركات تنمو أذكى بالبيانات والـ AI والأنظمة الصح"
     [[languages.ar.menu.main]]
       name   = "عني"
       url    = "/ar/about/"
@@ -52,9 +45,8 @@ defaultContentLanguage = "en"
   ShowShareButtons   = false
   ShowPostNavLinks   = true
 
-  [params.homeInfoParams]
-    Title   = "Mr. Nagieeb"
-    Content = "Helping businesses grow smarter"
+  [params.profileMode]
+    enabled = false
 
 [[params.socialIcons]]
   name = "linkedin"
